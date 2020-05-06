@@ -1,0 +1,5 @@
+requests==2.23.0
+pandas==1.0.1
+beautifulsoup4==4.8.2
+jupyter-contrib-nbextensions==0.5.1
+rise==5.6.1
