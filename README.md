@@ -16,10 +16,8 @@ The following topics are covered under this training series:
 
 The training materials - including recordings, slides, and sample Python code - can be found in the following folders:
 * [code](./code) - run and/or download the code examples using our Jupyter notebook resources.
-* [faq](./faq) - read through some of the frequently asked questions that are posed during our broadcasts.
 * [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with new forms of data.
-* [reading-list](./reading-list) - explore further resources including articles, books, online resources and more.
-* [webinars](./webinars) - watch recordings of the coding demonstrations.
+* [recordings](./recordings) - watch recordings of the coding demonstrations.
 
 ## Acknowledgements
 
