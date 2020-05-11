@@ -21,7 +21,7 @@ The training materials - including recordings, slides, and sample Python code - 
 
 ## Acknowledgements
 
-We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
+We are grateful to UKRI through the Economic and Social Research Council for their generous funding of this training series.
 
 ## Further Information
 
