@@ -1,6 +1,8 @@
 broadcasts
 outlines
 recordings
+code/*.csv
+code/*.txt
 code/sampling-frame
 code/annual-accounts-211535-2019.pdf
 code/ukds-intro-to-python-notes-2020-05-06.ipynb
