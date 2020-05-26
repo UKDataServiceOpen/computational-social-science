@@ -11,7 +11,7 @@ Learn the key steps and requirements for collecting data from web pages using co
 * [Watch recording](https://www.youtube.com/watch?v=N__JaQktqKI)
 
 ## 3. Collecting data II: APIs
-* [Watch recording]
+* [Watch recording](https://www.youtube.com/watch?v=H-6gyxVGj6A)
 
 ## Setting up your computational environment
 * [Watch recording]
