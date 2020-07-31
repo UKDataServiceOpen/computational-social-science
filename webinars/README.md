@@ -14,5 +14,6 @@ Learn the key steps and requirements for collecting data from web pages using co
 Learn the key steps and requirements for collecting data from the web through an API, and how to use Python for requesting, processing and saving data accessed through an API.
 * [Watch recording](https://www.youtube.com/watch?v=H-6gyxVGj6A)
 
-## Setting up your computational environment
+## 4. Setting up your computational environment
+Learn how to create, manage and share a Python computational environment.
 * [Watch recording](https://youtu.be/uKzWjzsHjJg)
