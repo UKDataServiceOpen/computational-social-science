@@ -25,7 +25,7 @@ We are grateful to UKRI through the Economic and Social Research Council for the
 
 ## Further Information
 
-* To access learning materials from the wider *New Forms of Data for Social Science Research* training series: <a href="https://github.com/UKDataServiceOpen/new-forms-of-data" target=_blank>[Training Materials]</a>
+* To access learning materials from the wider *Computational Social Science* training series: <a href="https://github.com/UKDataServiceOpen/computational-social-science" target=_blank>[Training Materials]</a>
 * To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
 * To get in contact with feedback, ideas or to seek assistance: <a href="https://ukdataservice.ac.uk/help.aspx" target=_blank>[Help]</a>
 
