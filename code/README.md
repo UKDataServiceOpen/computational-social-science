@@ -8,4 +8,4 @@ Once Binder has been launched, click on the notebook you want to run. (*Don't wo
 
 ### Launch Programming for Social Science Research as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/code-demos/master?filepath=code)<br>
 
-Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](https://github.com/UKDataServiceOpen/new-forms-of-data/blob/master/installation.md).
+Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](https://github.com/UKDataServiceOpen/computational-social-science/blob/master/installation.md).
