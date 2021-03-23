@@ -7,9 +7,11 @@ Computational methods for collecting, cleaning and analysing data are an increas
 ## Topics
 
 The following topics are covered under this training series:
-1. **Introduction to Python for social scientists** - Learn how to utilise the Python programming language for core social science research tasks.
+1. **Becoming a Computational Social Scientist** -  Learn how to enhance your existing social science skills with key computational skills to step out into computational social science.
 
-2. **Setting up your computational environment** -  Learn how to create, manage and share a Python computational environment.
+2. **Introduction to Python for social scientists** - Learn how to utilise the Python programming language for core social science research tasks.
+
+3. **Setting up your computational environment** -  Learn how to create, manage and share a Python computational environment.
 
 ## Materials
 
