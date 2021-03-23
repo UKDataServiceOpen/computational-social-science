@@ -15,9 +15,11 @@ The following topics are covered under this training series:
 
 ## Materials
 
-The training materials - including recordings, slides, and sample Python code - can be found in the following folders:
-* [code](./code) - run and/or download the code examples using our Jupyter notebook resources.
-* [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with new forms of data.
+Start by launching the Binder virtual environment in your browser by clicking this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/computational-social-science/HEAD). 
+
+The training materials for each of the of the topics listed above can be found in- including recordings, slides, and sample Python code - can be found in the following folders:
+* [code](./code) - run and/or download the code examples using our Jupyter notebook resources. These are the files that end in .pynb. Clicking on these files will open a new browser window with the code notebook running in a virtual environment! These virtual environments are temporary - your changes will not be saved and the environment will shut down if you remain inactive in that browser window too long. But you can always open it again.  
+* [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with the demonstrated topics. 
 * [webinars](./webinars) - watch recordings of the coding demonstrations on our Youtube channel.
 
 ## Acknowledgements
@@ -26,7 +28,7 @@ We are grateful to UKRI through the Economic and Social Research Council for the
 
 ## Further Information
 
-* To access learning materials from the wider *Computational Social Science* training series: <a href="https://github.com/UKDataServiceOpen/computational-social-science" target=_blank>[Training Materials]</a>
+* To access learning materials from the wider *Computational Social Science* training series: <>[Training Materials]</a>
 * To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
 * To get in contact with feedback, ideas or to seek assistance: <a href="https://ukdataservice.ac.uk/help.aspx" target=_blank>[Help]</a>
 
