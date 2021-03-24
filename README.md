@@ -1,4 +1,4 @@
-![UKDS Logo](./code/images/UKDS_Logos_Col_Grey_300dpi.png)<br>
+![UKDS Logo](./images/UKDS_Logos_Col_Grey_300dpi.png)<br>
 <br>
 # Coding Demonstrations: Programming for Social Science Research
 
