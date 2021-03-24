@@ -5,5 +5,3 @@ These instructions guide you through the process of installing Python and other 
 ### Install Python
 
 Installing and managing Python on your machine is tricky for a first-timer, therefore we have written detailed and clear instructions for this task: <a href="https://github.com/UKDataServiceOpen/computational-social-science/blob/master/installation.md" target=_blank>[Instructions]</a>
-
-### Reproduce *Programming for Social Science Research* code

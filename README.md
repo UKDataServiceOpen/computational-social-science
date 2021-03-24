@@ -19,7 +19,6 @@ Start by launching the Binder virtual environment in your browser by clicking th
 
 The training materials for each of the of the topics listed above can be found in- including recordings, slides, and sample Python code - can be found in the following folders:
 * [code](./code) - run and/or download the code examples using our Jupyter notebook resources. These are the files that end in .pynb. Clicking on these files will open a new browser window with the code notebook running in a virtual environment! These virtual environments are temporary - your changes will not be saved and the environment will shut down if you remain inactive in that browser window too long. But you can always open it again.  
-* [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with the demonstrated topics. 
 * [webinars](./webinars) - watch recordings of the coding demonstrations on our Youtube channel.
 
 ## Acknowledgements
