@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 pandas==1.0.1
 beautifulsoup4==4.8.2
 jupyter-contrib-nbextensions==0.5.1
